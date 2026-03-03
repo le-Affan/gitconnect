@@ -1,4 +1,4 @@
-# GitHub Collaborator Recommendation System
+# GitConnect
 
 This project builds an end-to-end, content-based machine learning system to recommend potential GitHub collaborators based on developer similarity. The system represents developers using aggregated repository metadata and applies an unsupervised similarity model to surface meaningful collaborator recommendations.
 
